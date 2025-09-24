@@ -18,14 +18,14 @@ It is a simple implementation of a password-based authentication system written 
 ---
 
 ## 📂 Project Structure
-- `Account` class – represents user accounts
-- `Hashing function` – DJB2 algorithm implementation
-- `Salt generator` – creates unique salts for each account
-- `SIGNUP` & `SIGNIN` – user authentication functions
-- `Identification` – identifies account owner from password
-- `passwords.txt` – file storage for usernames, salts, and hashed passwords
+- `README.md`
+- `proII.cpp.txt` 
+- `project2.exe` 
+- `project2_CS.pdf` 
+- `project2_code.txt` 
+- `proll.cpp` 
 
----
+
 
 ## ⚙️ How It Works
 1. **Sign Up** – creates a new account, generates salt, hashes password + salt, and stores it in the file.
